@@ -13,7 +13,7 @@ func main() {
 	addressBook["Alex"] = []int{89996543210}
 	addressBook["Bob"] = []int{89167243812}
 	addressBook["Bob"] = append(addressBook["Bob"], 89155243627)
-	addressBook["John"] = []int{7777777}
+	addressBook["John"] = []int{777777778}
 
 	fmt.Println(addressBook)
 
