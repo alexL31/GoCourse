@@ -1,8 +1,8 @@
 package main
 
 import (
+	"GoCourse/master/home-work3/stack"
 	"fmt"
-	"stack"
 )
 
 func main() {
